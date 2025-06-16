@@ -1,4 +1,4 @@
-# hola
+# Instrucciones para el grupo
 ## instalacion
  - instalar conda // anaconda // miniconda
  - activar el entorno virtual
